@@ -1,0 +1,15 @@
+body{
+    background-color: antiquewhite;
+}
+h1{
+    text-align: center;
+}
+#delete{
+    background-color: brown;
+}
+#edit{
+    background-color: rgb(71, 191, 215);
+}
+#submit{
+    background-color: rgb(0, 255, 76);
+}
